@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/https://github.com/dimitriarthur">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dimitriarthur&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitriarthur&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitriarthur&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="dimi-matlab" height="30" width="30" src="https://user-images.githubusercontent.com/50504364/130326223-675b1818-4a65-417b-8649-4c82bf2f1f88.png">
