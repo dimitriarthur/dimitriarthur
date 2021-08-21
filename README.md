@@ -17,8 +17,8 @@
 
   ##
  
-<div> 
+<div>
   <a href = "mailto:arthur.dimitri@ee.ufcg.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="http://lattes.cnpq.br/0078892633874056" target="_blank"><img src="https://user-images.githubusercontent.com/50504364/130326727-b3e9d761-5eff-4265-8b4c-a09ea5f6dbf9.png">
   <a href="https://www.linkedin.com/in/arthur-dimitri-488705192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="http://lattes.cnpq.br/0078892633874056" target="_blank"><img src="https://user-images.githubusercontent.com/50504364/130326727-b3e9d761-5eff-4265-8b4c-a09ea5f6dbf9.png">
  
