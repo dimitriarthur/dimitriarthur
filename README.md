@@ -1,6 +1,11 @@
 ## Hi there! I'm Arthur Dimitri. Welcome to my GitHub Page! :v:
 
 
+- 🔭 I’m currently working on **sparse identification of nonlinear systems**
+- 🌱 I’m currently learning about _hamiltonian and lagrangian networks_
+- 💬 Ask me about control systemas, MATLAB, TensorFlow! 
+
+
  <div>
   <a href="https://github.com/https://github.com/dimitriarthur">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dimitriarthur&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
