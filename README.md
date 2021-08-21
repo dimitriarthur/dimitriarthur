@@ -12,6 +12,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitriarthur&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
  
+ ### my stats 📊 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdimitriarthur%2F&count_bg=%23AE98ED&title_bg=%23545151&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
  ## Languages and libraries :desktop_computer:
  
   <div style="display: inline_block"><br>
