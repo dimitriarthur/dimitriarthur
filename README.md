@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **sparse identification of nonlinear systems**
 - 🌱 I’m currently learning about _hamiltonian and lagrangian networks_
-- 💬 Ask me about control systemas, MATLAB, TensorFlow! 
+- 💬 Ask me about control systems, MATLAB, TensorFlow! 
 
 
  <div>
