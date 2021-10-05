@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **sparse identification of nonlinear systems**
 - 🌱 I’m currently learning about model selection and information criteria
-- 💬 Ask me about control systems, and machine learning! 
+- 💬 Ask me about control systems and machine learning! 
 
 
  <div>
