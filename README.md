@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on **sparse identification of nonlinear systems**
-- 🌱 I’m currently learning about _hamiltonian and lagrangian networks_
-- 💬 Ask me about control systems, MATLAB, TensorFlow! 
+- 🌱 I’m currently learning about model selection and information criteria
+- 💬 Ask me about control systems, and machine learning! 
 
 
  <div>
