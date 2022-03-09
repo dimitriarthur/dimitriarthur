@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on **sparse identification of nonlinear systems**
-- 🌱 I’m currently learning about weak form of differential equations
+- 🌱 I’m currently learning about the  weak form of differential equations
 - 💬 Ask me about control systems and machine learning! 
 
 
